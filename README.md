@@ -2,11 +2,11 @@
 
 
 ## About Me 👤
-> 4x Community Top Voice 🏅 | GDSC Blockchain Lead 🔗| Tech team @DecodeCafe | MERN Stack Developer 👨‍💻 | Finalist SSIP hackathon'22 ⭐ | CSE'25 ✨
+> Top Community Voice 🏅 | Associate Software Engineer | Mentor @GSSOC | Tech team @DecodeCafe | Ex GDSC blockchain lead | Finalist SSIP hackathon'22 ⭐
 
-MERN Stack Developer and Blockchain enthusiast 🌐
+Full Stack Developer and Blockchain enthusiast 🌐
 
-I am a dedicated MERN Stack Developer with a fervor for creating innovative solutions. I thrive on turning ideas into reality through my technical expertise.
+Associate Software Engineer skilled in MERN stack development, blockchain technology, and Next.js. Passionate about building innovative web applications and exploring emerging tech trends. I love collaborating with tech communities and am always eager to learn new things by attending tech events. Open to opportunities that challenge me and help me grow.
 
 ## Social Media 📱
 
