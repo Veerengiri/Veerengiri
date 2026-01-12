@@ -2,7 +2,7 @@
 
 
 ## About Me 👤
-> Software Engineer | Finalist SSIP hackathon'22 ⭐
+> Software Engineer | .Net Core | Angular | MERN stack | Blockchain
 
 Full Stack Developer and Blockchain enthusiast 🌐
 
