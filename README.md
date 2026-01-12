@@ -2,17 +2,16 @@
 
 
 ## About Me 👤
-> Top Community Voice 🏅 | Associate Software Engineer | Mentor @GSSOC | Tech team @DecodeCafe | Ex GDSC blockchain lead | Finalist SSIP hackathon'22 ⭐
+> Software Engineer | Finalist SSIP hackathon'22 ⭐
 
 Full Stack Developer and Blockchain enthusiast 🌐
 
-Associate Software Engineer skilled in MERN stack development, blockchain technology, and Next.js. Passionate about building innovative web applications and exploring emerging tech trends. I love collaborating with tech communities and am always eager to learn new things by attending tech events. Open to opportunities that challenge me and help me grow.
+Software Engineer with experience in web development, blockchain technology, and emerging tech trends. Skilled in designing and building scalable applications using modern technologies. Passionate about solving real-world problems through innovative solutions and collaborating with tech communities. I enjoy learning and staying updated by attending tech events and exploring cutting-edge advancements. Open to opportunities that challenge me and foster growth.
 
 ## Social Media 📱
 
 <p align="left">
 <a href="https://linkedin.com/in/virengiri-goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kk-linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/goswamivirengiri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kk-instagram" height="30" width="40" /></a>
 </p>
 
 Looking forward to connecting with tech fellows! 😊✨
